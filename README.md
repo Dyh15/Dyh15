@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dyh15
 - 👀 I’m interested in AI
-- 🌱 I’m currently an ML Intern at CodeAlpha
+- 🌱 Currently I'm an ML Intern
 - ⚡ Fun fact: I'm a Biotechnology Engineer
 
 <!---
